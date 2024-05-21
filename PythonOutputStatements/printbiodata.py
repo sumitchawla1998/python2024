@@ -6,4 +6,3 @@ print("State:Gujarat")
 print("Country:India")
 
 
-# print list of your 5 favourite movies
