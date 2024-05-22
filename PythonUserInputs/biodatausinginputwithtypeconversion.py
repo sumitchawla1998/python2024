@@ -1,0 +1,10 @@
+name = input("Enter Name:")
+age = int(input("Enter Age:"))
+sal = float(input("Enter Salary:"))
+ismarried = bool(input("Enter Marriage Status:"))
+
+print("*****Biodata*****")
+print("Name:",name)
+print("Age:",age)
+print("Salary:",sal)
+print("Marriage Status:",ismarried)
